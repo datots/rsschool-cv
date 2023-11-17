@@ -3,12 +3,12 @@
 ### Contact Details
 ---------------------------
 
-**Location:** Tbilisi, Georgia
-**Mob:** +995 558 28 69 61
-**Email:** datotsanava1988@gmail.com
-**Telegram:**  @dato_ts
-**LinkedIn:** [David Tsanava](https://www.linkedin.com/in/david-tsanava-18a1421a6)
-**GitHub:** [David Tsanava](https://github.com/datots)
+- **Location:** Tbilisi, Georgia
+- **Mob:** +995 558 28 69 61
+- **Email:** datotsanava1988@gmail.com
+- **Telegram:**  @dato_ts
+- **LinkedIn:** [David Tsanava](https://www.linkedin.com/in/david-tsanava-18a1421a6)
+- **GitHub:** [David Tsanava](https://github.com/datots)
 
 -----------------------------------
 **About Myself:**
@@ -18,49 +18,49 @@ I'm a high organized and self-motivated person, who is interested in frontend de
 
 **Education:**
 -------
-**Sukhumi State University:** 
+- **Sukhumi State University:** 
 Specialization: Business Administration;
 
-**Tallinn University Of Technology:** 
+- **Tallinn University Of Technology:** 
 Specialization: Software Science;
 
 ------------------------------------------
 
 **Courses**
 
-**RSSchool**
+- **RSSchool** :
 JavaScript/Front-End Course EN 2023Q4
 
-**SkllWIll**
+- **SkllWIll**:
 Front-End Development
 
 ----------------------------
 
 **Languages:**
-I was working and studing in English laguage, I wrote my MA thesis in English. Aslo  I was usng Russian at work.
-Georgian: Native;
-English: C1;
-Russian: C1;
+I was working in English,Russian languages. Studing in English laguage, I wrote my MA thesis in English.
+- Georgian: Native;
+- English: C1;
+- Russian: C1;
 
 ---------------
 **Skills:**
 
-CSS
-HTML
-SASS
-Tailwindcss
-Bootstrap
-jQueery
-JavaScript
-Git, GitHub
-React.js
-T-SQL
-Pl-SQL
-MySQL
-Figma
-WordPRess
-Python basics
-C++ basics
+- CSS
+- HTML
+- SASS
+- Tailwindcss
+- Bootstrap
+- jQueery
+- JavaScript
+- Git, GitHub
+- React.js
+- T-SQL
+- Pl-SQL
+- MySQL
+- Figma
+- WordPRess
+- Python basics
+- C++ basics
 
 **Code Example:**
 
@@ -78,6 +78,6 @@ const Registration = () => {
   **Experience**
 
 
-[Internship Project](https://acceleration-project.vercel.app/)
-[BMI calculator](https://bmi-calculator-theta-ten.vercel.app/)
-[Project from Course (Investment calculator)](https://investment-calculator-xi.vercel.app/)
+- [Internship Project](https://acceleration-project.vercel.app/)
+- [BMI calculator](https://bmi-calculator-theta-ten.vercel.app/)
+- [Project from Course (Investment calculator)](https://investment-calculator-xi.vercel.app/)
