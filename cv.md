@@ -67,6 +67,7 @@ I was working in English,Russian languages. Studing in English laguage, I wrote 
 - WordPRess
 - Python basics
 - C++ basics
+- Markdown
 
 ---
 
@@ -86,7 +87,7 @@ setIsNameValid(isValid);
 ---
 **Experience:**
 - [learn.javascript](https://javascript.info/)
-- [freeCodeCapm](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
+- [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
 
 
   
