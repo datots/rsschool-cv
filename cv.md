@@ -96,3 +96,5 @@ setIsNameValid(isValid);
 - [Internship Project](https://acceleration-project.vercel.app/)
 - [BMI calculator](https://bmi-calculator-theta-ten.vercel.app/)
 - [Project from Course (Investment calculator)](https://investment-calculator-xi.vercel.app/)
+- [Dynamic Form](https://dynamic-form-eight.vercel.app/)
+- [Portfolio](https://portfolio-v3-8fsc.vercel.app/)
