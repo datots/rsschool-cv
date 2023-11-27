@@ -17,29 +17,6 @@ body {
 main {
   margin: 0 auto;
 }
-/* .navbar ul {
-  list-style-type: none;
-  background-color: hsl(0, 0%, 25%);
-  padding: 0%;
-  margin: 0%;
-  overflow: hidden;
-}
-
-.navbar a {
-  color: white;
-  text-decoration: none;
-  padding: 15px;
-  display: block;
-  text-align: center;
-}
-
-.navbar a:hover {
-  background-color: hsl(0, 0%, 10%);
-}
-
-.navbar li {
-  float: right;
-} */
 
 .container {
   position: relative;
@@ -154,4 +131,74 @@ main {
 
 .educationinfo li {
   margin-bottom: 15px;
+}
+
+.languageInfo .percent {
+  position: relative;
+  width: 100%;
+  height: 6px;
+  background: #081921;
+  display: block;
+  margin-top: 5px;
+}
+
+.languageInfo .percent div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  background: #03a9;
+}
+
+.container .right-side {
+  position: relative;
+  background: #fff;
+  padding: 40px;
+}
+
+.about {
+  margin-bottom: 50px;
+}
+
+.about:last-child {
+  margin-bottom: 0;
+}
+
+.title2 {
+  color: #003147;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+}
+
+p {
+  color: #333;
+}
+
+.skills .box {
+  position: relative;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 150px 1fr;
+}
+
+.skills .box h4 {
+  text-transform: uppercase;
+  color: #848c99;
+  font-weight: 500;
+}
+
+.skills .box .percent {
+  position: relative;
+  width: 100%;
+  height: 10px;
+  background-color: #f0f0f0;
+}
+
+.skills .box .percent div{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  background: #03a9f4;
 }
