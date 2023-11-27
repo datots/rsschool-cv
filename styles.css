@@ -195,10 +195,75 @@ p {
   background-color: #f0f0f0;
 }
 
-.skills .box .percent div{
+.skills .box .percent div {
   position: absolute;
   top: 0;
   left: 0;
   height: 100%;
   background: #03a9f4;
+}
+
+.project {
+  margin-top: 20px;
+}
+
+.project ul {
+  list-style: none;
+  padding: 0;
+}
+
+.project li {
+  margin-bottom: 10px;
+}
+
+.project a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  display: block;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.project a:hover {
+  background-color: #f0f0f0;
+}
+
+.title4 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.footer-logo {
+  background-image: url("./image/rs-logo.svg");
+  width: 120px;
+  height: 65px;
+  background-repeat: no-repeat;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: rgb(125, 86, 12);
+  padding: 10px 2%;
+  font-weight: 700;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.btn-footer {
+  color: black;
+}
+
+.footer-git {
+  width: 20%;
+}
+
+.footer-text {
+  width: 70%;
+  text-align: center;
 }
