@@ -1,1 +1,1 @@
-# rsschool-cv
+https://datots.github.io/rsschool-cv/
